@@ -4,12 +4,14 @@ OTS HTML
 --------
 
 South America:
+
 http://www.yugioh-card.com/en/events/tournament_locations_lat-am.html
 
 OTS PDF's
 ---------
 
 North America:
+
 https://yugiohblog.konami.com/otslist/KonamiOTS.pdf
 
 Oceania:
