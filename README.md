@@ -42,6 +42,7 @@ http://www.yugioh-card.com/uk/events/storelists/storelist_Switzerland.pdf
 http://www.yugioh-card.com/uk/events/storelists/storelist_UK.pdf
 
 (small countries) 
+
 http://www.yugioh-card.com/uk/events/storelists/storelist_Algeria.pdf
 http://www.yugioh-card.com/uk/events/storelists/storelist_Bahrain.pdf
 http://www.yugioh-card.com/uk/events/storelists/storelist_Bulgaria.pdf
